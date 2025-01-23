@@ -1,16 +1,102 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+Publik Persona OS License Agreement  
+**Version 2.0 (GPLv3 + Ethical Enforcement Addendum)**  
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+---
 
-[Standard GPLv3 text...]
+## PART 1: GNU GENERAL PUBLIC LICENSE VERSION 3  
 
-                     ETHICAL USE ADDENDUM
+*The full text of the GNU GPLv3 applies to this software. Below is a summary:*  
 
-This software must be used in accordance with the following ethical principles:
+**You are free to:**  
+✅ Use the software for any purpose  
+✅ Study and modify the code  
+✅ Distribute original or modified versions  
 
-1. Privacy Protection
-2. Bias Mitigation
-3. User Autonomy
-4. Transparency
-5. Mental Well-being
+**Under these conditions:**  
+🔓 Disclose all source code changes  
+🔓 Preserve license notices and copyrights  
+🔓 License derivatives under GPLv3  
+
+**[Full GPLv3 Text](https://www.gnu.org/licenses/gpl-3.0.en.html)**  
+
+---
+
+## PART 2: ETHICAL ENFORCEMENT ADDENDUM  
+
+### Article 1: Prohibited Uses  
+**Any deployment of this software for the following purposes constitutes license violation:**  
+
+1. **Surveillance Systems**  
+   - Mass monitoring without individual consent  
+   - Facial recognition/predictive policing applications  
+
+2. **Manipulation Engines**  
+   - Microtargeting for political/commercial coercion  
+   - Dark pattern implementation  
+
+3. **Control Architectures**  
+   - Social credit systems  
+   - Workforce productivity monitoring  
+
+4. **Military Applications**  
+   - Warfare strategy development  
+   - Population control mechanisms  
+
+### Article 2: Enforcement Mechanisms  
+
+1. **Automatic License Termination**  
+   Violators immediately lose all rights granted by GPLv3.  
+
+2. **Ethical Compliance Audit**  
+   Must provide full system access to [AI Ethics Board](/docs/ethics/board.md) upon request.  
+
+3. **Remediation Requirements**  
+   - Public disclosure of violations  
+   - Financial penalties (up to $2M USD per incident)  
+   - Mandatory donation to digital rights NGOs  
+
+### Article 3: Reporting & Whistleblower Protections  
+
+1. **Submit Evidence**  
+   `ethics@publikpersona.org` (secure Tor submission available)  
+
+2. **Protections**  
+   Whistleblowers granted:   
+   - Anonymity guarantees  
+
+---
+
+## PART 3: COMMERCIAL USE TERMS  
+
+While commercial use is permitted under GPLv3, you **must**:  
+
+1. **Transparency Clause**  
+   - Disclose deployment to affected users  
+   - Provide opt-out mechanisms  
+
+2. **Revenue Sharing**  
+   Enterprises with >$1M USD annual revenue must:  
+   - Contribute 3% of software-related profits to [Konscious Foundation](https://publikpersona.org/donate)  
+   - Or equivalent in code contributions  
+
+---
+
+## HOW TO APPLY THESE TERMS  
+
+Include this notice in modified files:  
+
+```  
+Publik Persona OS  
+Copyright (C) 2023 Publik School LLC
+This program comes with ABSOLUTELY NO WARRANTY; for details visit [LINK].  
+This is free software under GPLv3+ethical addendum; see LICENSE.md.  
+```  
+
+---
+
+## FULL LEGAL TEXT  
+- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)  
+- [Ethical Addendum Details](/docs/ethics/ENFORCEMENT.md)  
+
+*"Free software must remain free of oppression."*  
+— Publik Persona License Manifesto  
